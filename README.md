@@ -27,13 +27,13 @@ Atuo no desenvolvimento e sustentação de processos **ETL/ELT** com Apache Airf
 ---
 
 ## 📊 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[eduardosucco-vtal]&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ---
 
 ## 📬 Contato
-- **💼 LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **📧 Email**: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- **💼 LinkedIn**: [https://www.linkedin.com/in/eduardosucco/](https://www.linkedin.com/in/eduardosucco/)
+- **📧 Email**: [eduardo.succo.ext@vtal.com](mailto:eduardo.succo.ext@vtal.com)
 
 ---
 👋 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios.
