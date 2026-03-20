@@ -1,5 +1,5 @@
 # Eduardo Succo 🌟
-### **Engenheiro de Dados Sênior | GCP & Big Data Specialist**
+### **Engenheiro de Dados Sênior**
 
 Sou **Engenheiro de Dados Sênior** com foco em automação de processos, construção de data pipelines e entrega de dados confiáveis para consumo analítico. Tenho sólida experiência em bancos de dados e SQL, atuando com modelagem, otimização de desempenho e integração de dados em ambientes corporativos.
 
